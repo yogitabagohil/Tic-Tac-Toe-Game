@@ -1,3 +1,4 @@
+import "./css/info.css";
 const Info = () =>{
     return(
         <div className="info">
